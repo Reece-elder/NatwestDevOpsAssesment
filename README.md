@@ -16,3 +16,7 @@ To run application locally do the following:
 
 4) Run the following command `python3 app.py`
 
+![EC2 diagram](https://i.imgur.com/NGXAmaK.png)
+
+
+
