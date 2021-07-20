@@ -12,7 +12,7 @@ To run application locally do the following:
 
 2) cd to directory containing `app.py`
 
-3) pip3 install flask
+3) Install flask with `pip3 install flask`
 
 4) Run the following command `python3 app.py`
 
